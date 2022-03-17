@@ -1,0 +1,23 @@
+{
+  "name": "database_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huishulp24/DATABASE_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huishulp24/DATABASE_/issues"
+  },
+  "homepage": "https://github.com/huishulp24/DATABASE_#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
